@@ -1,0 +1,11 @@
+{
+  "student": {
+    "name": "vikas",
+    "location": "Hadapsar",
+    "phone": "121212",
+    "courses": [
+      "AI",
+      "AI++"
+    ]
+  }
+}

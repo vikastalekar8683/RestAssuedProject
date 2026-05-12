@@ -1,0 +1,107 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Vikas",
+      "location": "Pune",
+      "phone": "9028131333",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Avira",
+      "location": "Delhi",
+      "phone": "9028131555",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Reyansh",
+      "location": "Pune",
+      "phone": "9028131777",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Tanvi",
+      "location": "Mumbai",
+      "phone": "9028131444",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "courses": [
+        "AI",
+        "AI++"
+      ],
+      "phone": "1122334455",
+      "name": "vikas",
+      "location": "pune",
+      "id": "mnHnYKNLq68"
+    },
+    {
+      "empty": false,
+      "mapType": "java.util.HashMap",
+      "id": "ml10mQh4UHE"
+    },
+    {
+      "empty": false,
+      "mapType": "java.util.HashMap",
+      "id": "z_KpbFi3ZhE"
+    },
+    {
+      "courses": [
+        "AI",
+        "AI++"
+      ],
+      "phone": "1122334455",
+      "name": "vikas",
+      "location": "pune",
+      "id": "Judbn4d895U"
+    },
+    {
+      "id": "fXe5-HVRhpI"
+    },
+    {
+      "id": "mZ7AagVP6Y8"
+    },
+    {
+      "id": "JaaHoN-eZ7Y"
+    },
+    {
+      "name": "vikas",
+      "location": "Hadapsar",
+      "phone": "121212",
+      "courses": [
+        "AI",
+        "AI++"
+      ],
+      "id": "cjczQROsqTU"
+    },
+    {
+      "student": {
+        "courses": [
+          "AI",
+          "AI++"
+        ],
+        "phone": "121212",
+        "name": "vikas",
+        "location": "Hadapsar",
+        "id": "cjczQROsqTU"
+      },
+      "id": "Ci7tQTyYdqs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

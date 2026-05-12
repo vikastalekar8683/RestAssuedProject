@@ -1,0 +1,140 @@
+{
+  "status": "success",
+  "data": {
+    "users": [
+      {
+        "userDetails": {
+          "id": 12345,
+          "name": "John Doe",
+          "email": "john.doe@example.com",
+          "phoneNumbers": [
+            { "type": "home", "number": "123-456-7890" },
+            { "type": "work", "number": "987-654-3210" }
+          ]
+        },
+        "address": {
+          "street": "123 Main St",
+          "city": "Springfield",
+          "state": "IL",
+          "postalCode": "62704",
+          "geo": { "latitude": 39.7817, "longitude": -89.6501 }
+        },
+        "preferences": {
+          "notifications": true,
+          "theme": "dark",
+          "languages": ["English", "Spanish", "French"]
+        },
+        "recentOrders": [
+          { "productId": 12345, "quantity": 10 }
+        ]
+      },
+      {
+        "userDetails": {
+          "id": 67890,
+          "name": "Jane Smith",
+          "email": "jane.smith@example.com",
+          "phoneNumbers": [
+            { "type": "mobile", "number": "555-123-4567" },
+            { "type": "work", "number": "555-987-6543" }
+          ]
+        },
+        "address": {
+          "street": "456 Oak Avenue",
+          "city": "Metropolis",
+          "state": "NY",
+          "postalCode": "10001",
+          "geo": { "latitude": 40.7128, "longitude": -74.0060 }
+        },
+        "preferences": {
+          "notifications": false,
+          "theme": "light",
+          "languages": ["English", "German"]
+        },
+        "recentOrders": [
+          { "productId": 54321, "quantity": 2 },
+          { "productId": 98765, "quantity": 1 }
+        ]
+      },
+      {
+        "userDetails": {
+          "id": 11122,
+          "name": "Michael Brown",
+          "email": "michael.brown@example.com",
+          "phoneNumbers": [
+            { "type": "home", "number": "321-654-0987" },
+            { "type": "mobile", "number": "654-321-7890" }
+          ]
+        },
+        "address": {
+          "street": "789 Pine Street",
+          "city": "Austin",
+          "state": "TX",
+          "postalCode": "73301",
+          "geo": { "latitude": 30.2672, "longitude": -97.7431 }
+        },
+        "preferences": {
+          "notifications": true,
+          "theme": "system",
+          "languages": ["English", "Chinese"]
+        },
+        "recentOrders": [
+          { "productId": 33445, "quantity": 3 }
+        ]
+      },
+      {
+        "userDetails": {
+          "id": 33456,
+          "name": "Emily Davis",
+          "email": "emily.davis@example.com",
+          "phoneNumbers": [
+            { "type": "work", "number": "444-555-6666" },
+            { "type": "home", "number": "777-888-9999" }
+          ]
+        },
+        "address": {
+          "street": "1010 Maple Drive",
+          "city": "Denver",
+          "state": "CO",
+          "postalCode": "80202",
+          "geo": { "latitude": 39.7392, "longitude": -104.9903 }
+        },
+        "preferences": {
+          "notifications": false,
+          "theme": "dark",
+          "languages": ["English", "Italian"]
+        },
+        "recentOrders": [
+          { "productId": 77889, "quantity": 5 },
+          { "productId": 99001, "quantity": 2 },
+          { "productId": 22334, "quantity": 1 }
+        ]
+      },
+      {
+        "userDetails": {
+          "id": 55678,
+          "name": "David Wilson",
+          "email": "david.wilson@example.com",
+          "phoneNumbers": [
+            { "type": "mobile", "number": "999-000-1111" },
+            { "type": "work", "number": "222-333-4444" }
+          ]
+        },
+        "address": {
+          "street": "2020 Cedar Lane",
+          "city": "Seattle",
+          "state": "WA",
+          "postalCode": "98101",
+          "geo": { "latitude": 47.6062, "longitude": -122.3321 }
+        },
+        "preferences": {
+          "notifications": true,
+          "theme": "light",
+          "languages": ["English", "Japanese", "Korean"]
+        },
+        "recentOrders": [
+          { "productId": 44556, "quantity": 4 }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CURDOperationsSuite" verbose="1">
+  <test name="CURDOperationsTest">
+    <classes>
+      <class name="com.qa.practice.day1Practice.CURDOperations"/>
+    </classes>
+  </test>
+</suite>
