@@ -53,12 +53,9 @@ public class AuthenticationTest {
     //3. Bearer Token Authentication
     @Test
     public void verifyBearerTokenAuth() {
-        String bearerToken = "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";
-
         given()
-                .header("Authorization", "Bearer " + bearerToken)
                 .when()
-                .get("https://api.github.com/user/repos")
+                .get("https://api.github.com/users/octocat/repos")
                 .then()
                 .statusCode(200)
                 .log().body();
